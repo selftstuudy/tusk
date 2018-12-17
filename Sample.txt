@@ -2,3 +2,5 @@ How to start with Git Turorial
 First down load git hub related tutorial
 Go to Git Hub
 created an account 
+click the link named sign up
+after siging up verify email
